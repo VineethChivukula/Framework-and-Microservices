@@ -9,6 +9,7 @@ Joseph Albahari,”C#10 in a Nut Shell”, Oreilly Publications. Nov 2021
 Mark J.Price, “ C# 10 and .NET 6 – Modern Cross-Platform Development - Sixth Edition”, Oreilly Publications. Nov 2021
 
 ChatGPT, Feb 13 Version
+
 GitHub Copilot
 
 Contents:
